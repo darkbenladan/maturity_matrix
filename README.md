@@ -32,7 +32,7 @@ CI/CD |% успешных поставок 
 Инфраструктура | время на подготовку нового окружения
 
 
-Copyright (c) 2022 - 2023 Krylov Alexandr.
+Copyright (c) Krylov Aleksandr.
 
 License autor by Krylov Alexandr type cc.
 
